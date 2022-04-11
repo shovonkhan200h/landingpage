@@ -104,15 +104,14 @@ h1, h2, h3, h4, h5, h6 {
 /* Home section start  */
 .home{
     
-    background-position: center;
-    background-size: cover;
+    
     margin: 0;
     min-height: 100vh;
     text-align: center;
     align-items: center;
     left: 0;
     padding: 0;
-    background:black;
+    
 
     
 }
